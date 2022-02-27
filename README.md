@@ -4,7 +4,6 @@
 
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning NextJS, Python and SASS/SCSS
-- 🥅 2021 Goals: Gain new knowledge of different technologies
 - 🥅 2022 Goals: Contribute to Open Source Projects
 
 ### Connect with me:
@@ -21,6 +20,7 @@
 <img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="ASP.NET" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
@@ -35,5 +35,9 @@
 ### GitHub Stats
 
 ![hui444's GitHub stats](https://github-readme-stats.vercel.app/api?username=hui444)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hui444&layout=compact)](https://github.com/hui444)
 
 [linkedin]: linkedin.com/in/hui-hui-fang/
+
+
+
