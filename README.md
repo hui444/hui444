@@ -9,7 +9,7 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn][linkedin]
 
-[<img align="left" alt="Website logo" width="22px" src="https://user-images.githubusercontent.com/57870728/192544542-5dc2c68a-1d3f-4543-97b8-ea85f395bce1.png" /> My website](https://personal-website-git-main-hui444.vercel.app/)
+[<img align="left" alt="Website logo" width="22px" src="https://user-images.githubusercontent.com/57870728/192544542-5dc2c68a-1d3f-4543-97b8-ea85f395bce1.png" /> My website](https://personal-website-hui444.vercel.app/)
 <br />
 
 
