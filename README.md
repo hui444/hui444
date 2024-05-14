@@ -1,9 +1,9 @@
 # Hi there, I'm Hui Hui 👋
 
-## I'm a Student, Developer and Problem Solver
+## I'm a Software Developer and Problem Solver
 
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Unity and flutter!
+- 🌱 I’m currently learning NextJS!
 
 ### Connect with me:
 
